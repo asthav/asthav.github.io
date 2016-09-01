@@ -1,5 +1,5 @@
 $('img').click(function(){
-    $(this).addClass('ivertcat');
+    $(this).addClass('invertcat');
 }).mouseleave(function(){
     $(this).removeClass('invertcat');
 });
